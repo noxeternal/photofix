@@ -1,0 +1,10 @@
+{
+  "name": "photofix",
+  "version": "0.1.0",
+  "description": "Photo (file) de-duplicator",
+  "main": "index.js",
+  "repository": "git@github.com:noxeternal/photofix.git",
+  "author": "Michael Rice <rice.michaelt@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
